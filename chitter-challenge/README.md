@@ -14,7 +14,9 @@
   </p>
 </div>
 
-
+<p align="center">
+<img src="WhatsApp Image 2023-01-12 at 16.26.07.jpeg" height= 400px alt="chitter app screenshot showing chitter bird logo and a list of peeps">
+</p>
 
 <!-- TABLE OF CONTENTS -->
 <details>
