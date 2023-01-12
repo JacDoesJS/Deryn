@@ -4,7 +4,7 @@
   <p align="center">
     A programme, created following the principles of test-driven development, to control the movement of planes in and out of airports.
     <br />
-    <a href="https://github.com/JacDoesJS/airport-challenge.git"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/JacDoesJS/Digital-Futures/tree/main/air-traffic-control"><strong>Explore the docs »</strong></a>
     <br />
     <br />
   </p>
@@ -69,7 +69,7 @@ GETTING STARTED
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/JacDoesJS/airport-challenge.git
+   git clone https://github.com/JacDoesJS/Digital-Futures/tree/main/air-traffic-control
    ```
 2. Install NPM packages
    ```sh
