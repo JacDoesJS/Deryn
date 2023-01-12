@@ -3,7 +3,7 @@
   <p align="center">
     A great challenge!
     <br />
-    <a href="https://github.com/JacDoesJS/airport-challenge.git"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/JacDoesJS/Digital-Futures/tree/main/bank-challenge"><strong>Explore the docs »</strong></a>
     <br />
     <br />
   </p>
@@ -186,7 +186,7 @@ Things you need to use the software and how to install them.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/JacDoesJS/airport-challenge.git
+   git clone https://github.com/JacDoesJS/Digital-Futures/tree/main/bank-challenge
    ```
 2. Install NPM packages
    ```sh
@@ -200,7 +200,7 @@ Things you need to use the software and how to install them.
 
 Jac McKeigue - jac.mckeigue@outlook.com
 
-Project Link: [https://github.com/JacDoesJS/airport-challenge.git](https://github.com/JacDoesJS/airport-challenge.git)
+Project Link: [air traffic control](https://github.com/JacDoesJS/Digital-Futures/tree/main/bank-challenge)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
