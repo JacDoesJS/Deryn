@@ -8,7 +8,7 @@
   <p align="center">
     A Rock, Paper, Scissors game to play on the web, built using React and Express:
     <br />
-    <a href="https://github.com/JacDoesJS/rock-paper-scissors-challenge.git"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/JacDoesJS/Digital-Futures/tree/main/rock-paper-scissors-lizard-spock"><strong>Explore the docs »</strong></a>
     <br />
     <br />
   </p>
@@ -140,7 +140,7 @@ Am array of win conditions would help to reduce long checkWinner() function in t
 
 Clone the repo
    ```sh
-   git clone https://github.com/JacDoesJS/rock-paper.git
+   git clone https://github.com/JacDoesJS/Digital-Futures/tree/main/rock-paper-scissors-lizard-spock
    ```
 install the dependencies:  
 
@@ -160,7 +160,7 @@ install the dependencies:
 
 Jac McKeigue - jac.mckeigue@outlook.com
 
-Project Link: [https://github.com/JacDoesJS/rock-paper-scissors-challenge.git](https://github.com/JacDoesJS/rock-paper-scissors-challenge.git)
+Project Link: [Rock Paper Scissors Lizard Spock](https://github.com/JacDoesJS/Digital-Futures/tree/main/rock-paper-scissors-lizard-spock)
 
 
 </br>
