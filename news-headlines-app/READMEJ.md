@@ -14,6 +14,9 @@
   </p>
 </div>
 
+<p align="center">
+  <img src="f.png" width="600px" alt="blue banner with globe and map">
+  </p>
 
 
 <!-- TABLE OF CONTENTS -->
