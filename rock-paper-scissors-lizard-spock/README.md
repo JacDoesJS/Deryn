@@ -15,7 +15,7 @@
 </div>
 
  <p align="center">
-<img src="IMG_20230112_164100.jpg" height = 300px alt="login screenshot">   <img src="IMG_20230112_164110.jpg" height = 300px alt="choose weapon screenshot">    <img src="IMG_20230112_164117 (1).jpg" height=300px alt="result of battle screenshot">
+<img src="A.png" height = 300px alt="login screenshot">   <img src="B.png" height = 300px alt="choose weapon screenshot">    <img src="C.png" height=300px alt="result of battle screenshot">
 </p>
 
 
