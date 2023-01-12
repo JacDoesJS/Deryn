@@ -8,7 +8,7 @@
   <p align="center">
     A single page application in React displaying up-to-date news stories and images from the Guardian website.
     <br />
-    <a href="https://github.com/JacDoesJS/news-summary-challenge.git"><strong>Explore the docs »</strong></a>
+    <a href="hhttps://github.com/JacDoesJS/Digital-Futures/tree/main/news-headlines-app"><strong>Explore the docs »</strong></a>
     <br />
     <br />
   </p>
@@ -97,7 +97,7 @@ As extension possibilities for this, it would be good to offer a login option wi
 
 Clone the repo
    ```sh
-   git clone https://github.com/JacDoesJS/news-summary-challenge.git
+   git clone https://github.com/JacDoesJS/Digital-Futures/tree/main/news-headlines-app
    ```
    
 
@@ -182,7 +182,7 @@ In the developer tools in the browser, I checked the responsiveness of the layou
 
 Jac McKeigue - jac.mckeigue@outlook.com
 
-Project Link: [https://github.com/JacDoesJS/scrabble-challenge-java.git](https://github.com/JacDoesJS/airport-challenge.git)
+Project Link: [News Headlines app](https://github.com/JacDoesJS/Digital-Futures/tree/main/news-headlines-app)
 
 
 </br>
