@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="css/style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Rock, Paper, Scissors</title>
+</head>
+
+<body>
+    <div class="box">
+        <header>Rock, Paper, Scissors, Lizard, Spock</header>
+        <hr>
+        <div class="container">
+
+            <p class="win">
+                <%= name %>:
+                    <%= playerWeapon %>
+            </p>
+            <p class="pc">Computer: <%= computerWeapon %>
+            </p>
+
+            <p class='end'>
+                <%= result %>
+            </p>
+
+            <div>
+                <form action="/again" method="post">
+                    <input id="again" type="submit" value="Play again?" name="again">
+                </form>
+            </div>
+        </div>
+        <hr>
+        <footer>
+
+            <span>This extended version of rock, paper, scissors, follows rules which can be found <span><a
+                        href="https://en.wikipedia.org/wiki/Rock_paper_scissors#Additional_weapons"
+                        target="blank">here.</a></span> </span>
+        </footer>
+
+    </div>
+</body>
+
+</html>

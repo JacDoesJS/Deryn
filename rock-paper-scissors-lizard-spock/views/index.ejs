@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="css/style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Rock, Paper, Scissors</title>
+</head>
+
+<body>
+    <div class="box">
+        <header>Rock, Paper, Scissors, Lizard, Spock</header>
+        <hr>
+        <div class="container">
+            <div class="intro">
+
+                <h2>Welcome!</h2>
+                <div class="name">
+                    <p>Please enter your name.</p>
+                    <form action="/game" method="post">
+                        <input id="player1-name-textbox" type="text" name="player1" autocomplete="off" maxlength="10"
+                            required="required">
+                        <div>
+                            <input id="again" class="again" type="submit" value="Play game!">
+                        </div>
+                        <div class="image">
+                            <a href="https://en.wikipedia.org/wiki/Rock_paper_scissors#Additional_weapons"
+                                target="blank"><img src="/images/rpsls.jpg"
+                                    alt="hand gestures for rock, paper, scissors, lizard, Spock" width="100%" /></a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <hr>
+        <footer>
+
+            <span>This extended version of rock, paper, scissors, follows rules which can be found <span><a
+                        href="https://en.wikipedia.org/wiki/Rock_paper_scissors#Additional_weapons"
+                        target="blank">here.</a></span> </span>
+        </footer>
+    </div>
+</body>
+
+
+
+</html>

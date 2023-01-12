@@ -1,0 +1,205 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.logo {
+  margin: 0;
+  width: 40%;
+  margin: auto;
+  /* padding: 3em; */
+
+}
+
+main {
+  margin: 0;
+  padding: 0;
+}
+
+.App-header {
+  margin-top: 1em;
+  text-align: center;
+}
+
+.logging {
+  padding-left: .5em;
+  text-align: center;
+  font-size: 1.3em;
+}
+
+.log {
+  margin-bottom: 1em;
+  padding: .5em;
+  background-color: white;
+}
+
+.reg-link {
+  font-size: 1.3em;
+}
+
+.logout {
+  font-size: 1.5em;
+  width: 50%;
+  margin: auto;
+}
+
+#peep {
+  background-color: #FDE7FF;
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+#peep:hover {
+  background-color: purple;
+  color: white;
+}
+
+input:hover {
+  background-color: paleturquoise;
+}
+
+.button {
+  font-size: 1.2em;
+  font-weight: bold;
+  width: 28%;
+  margin: 1em .2em 0 .2em;
+  background-color: #e7c8f5;
+  padding: .4em;
+  /* border: .2em solid purple; */
+  border-radius: .5em;
+  text-align: center;
+  box-shadow: -7px 2px 5px rgb(44, 44, 45);
+
+}
+
+.peeps-box {
+  background-color: #D9E8FF;
+  border: 2px solid lightgrey;
+  width: 85%;
+  margin: auto;
+  margin-top: 1em;
+  margin-bottom: 5em;
+  box-shadow: -7px 2px 5px rgb(44, 44, 45);
+
+}
+
+.new-peep {
+  width: 92%;
+  margin: auto;
+  margin-top: 1em;
+  display: flex;
+  text-align: left;
+  background-color: #D9E8FF;
+  border: 5px solid lightgrey;
+  box-shadow: -7px 2px 5px rgb(44, 44, 45);
+}
+
+.peep-container {
+  width: 92%;
+  margin: auto;
+  margin-top: 1em;
+  display: flex;
+  background-color: white;
+  box-shadow: -7px 2px 5px rgb(44, 44, 45);
+
+}
+
+#new-peep-label {
+  text-align: left;
+  font-size: 1.2em;
+  line-height: 1.2em;
+}
+
+.input-box {
+  /* border: none;
+  outline: none;
+  overflow: auto; */
+  width: 90%;
+  margin: auto;
+
+}
+
+input {
+  width: 100%;
+  font-size: 1.3em;
+}
+
+.image-parent {
+  display: flex;
+  width: 25%;
+  flex-direction: column;
+  margin: auto;
+  margin: .5em .5em;
+}
+
+.image {
+  flex: 1;
+  border-radius: 1.5em;
+}
+
+.picture {
+  width: 70px;
+  height: 70px;
+  border-radius: 2.5em;
+  object-fit: cover;
+
+}
+
+.name-date {
+  display: flex;
+  flex-direction: row;
+  font-size: 1.3em;
+  text-align: left;
+
+}
+
+.date {
+  font-size: .7em;
+  text-align: right;
+  width: 50%;
+
+}
+
+.user-name {
+  font-size: .8em;
+  text-align: left;
+  width: 50%;
+}
+
+.peeps-parent {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  margin: auto;
+  /* margin: .5em .5em; */
+  padding: .5em;
+
+}
+
+.new-peep {
+  background-color: white;
+
+}
+
+.message {
+  text-align: left;
+  font-size: 1em;
+
+}
+
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer {
+  font-size: 1em;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #e9d2f5;
+  text-align: center;
+}

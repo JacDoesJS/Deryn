@@ -1,0 +1,140 @@
+.App {
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  box-sizing: border-box;
+  background: rgb(136, 45, 189);
+  background: linear-gradient(90deg, rgba(136, 45, 189, 0.7486344879748774) 0%, rgba(207, 244, 247, 0.7374300061821604) 100%);
+
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.loading {
+  font-size: 5em;
+  color: rgb(56, 11, 111);
+  font-weight: bold;
+  text-align: center;
+  background-color: aquamarine;
+}
+
+.App-header {
+  min-height: 26svh;
+  font-size: 1.7em;
+  color: white;
+  background-color: rgb(56, 11, 111);
+  padding-top: .3em;
+}
+
+@media only screen and (min-width: 600px) {
+  .App-header {
+    font-size: 2em;
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  .newsImageHeadline {
+    margin-top: 3em;
+  }
+}
+
+.newsBox {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: left;
+  margin-top: .5em;
+  padding-left: .5em;
+  padding-right: .5em;
+
+}
+
+.newsContainer {
+  border: rgb(56, 11, 111) .5em solid;
+  border-radius: 5px;
+  background-color: whitesmoke;
+  width: 80%;
+  margin: auto;
+  font-size: 1.2em;
+  margin-top: 2em;
+}
+
+@media only screen and (min-width: 600px) {
+  .newsContainer {
+    width: 70%;
+    margin: auto;
+  }
+}
+
+.picture {
+  border: .3em solid white;
+  border-radius: 5px;
+}
+
+.expanded {
+  text-align: left;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding-left: .5em;
+  padding-right: .5em;
+  font-size: 1.2em;
+}
+
+.fullArticle {
+  text-align: right;
+  text-decoration: underline;
+
+}
+
+.topLink {
+  color: rgb(56, 11, 111);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.space {
+  height: 1em;
+}
+
+.topTitle {
+  font-size: 1em;
+  margin-top: .5em;
+  padding: 0 .5em .5em .5em;
+  text-align: center;
+}
+
+.title {
+  font-size: 1em;
+  margin-top: .5em;
+  text-align: left;
+
+}
+
+.banner {
+  position: relative
+}
+
+.banner img {
+  width: 100%
+}
+
+.banner .container {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50%;
+  text-align: left;
+  transform: translateY(-50%)
+}
+
+
+.App-link {
+  color: #61dafb;
+}
+
+.row {
+  font-size: 1.2em;
+}
+
+.footer-style {
+  color: rgb(56, 11, 111);
+}

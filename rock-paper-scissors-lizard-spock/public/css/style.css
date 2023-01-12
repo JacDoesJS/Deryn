@@ -1,0 +1,163 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.box {
+    width: 100%;
+    margin: auto;
+    height: 680px;
+}
+
+header {
+    margin-bottom: .5em;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: darkblue;
+    width: 100%;
+    padding: .4em;
+    padding-top: 1em;
+
+}
+
+a {
+    color: darkblue;
+}
+
+hr {
+    border: 3px solid rgb(13, 245, 218);
+    /* margin-bottom: 1.5em; */
+}
+
+.container {
+    width: 70%;
+    margin: auto;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    background-color: rgb(228, 242, 243);
+    border: 5px solid rgb(13, 245, 218);
+    border-radius: 10px;
+    height: 440px;
+    padding: .5em;
+    box-shadow: -10px 2px 5px rgb(1, 61, 61);
+}
+
+h2 {
+    font-size: 1.6em;
+    color: white;
+    font-weight: bold;
+}
+
+body {
+    text-align: center;
+}
+
+.name {
+    color: black;
+    margin-top: 1em;
+}
+
+#player1-name-textbox {
+    background-color: white;
+    border: 5px solid darkblue;
+    border-radius: .5em;
+    font-size: 1.3em;
+    width: 50%;
+    text-align: center;
+    box-shadow: -10px 2px 5px rgb(37, 3, 90);
+    padding: .4em;
+    margin-top: .5em;
+    margin-bottom: .5em;
+}
+
+.image {
+    width: 9em;
+    margin: auto;
+    margin-top: 1em;
+    border: 5px solid darkblue;
+    border-radius: 5%;
+    box-shadow: -10px 2px 5px rgb(37, 3, 90);
+}
+
+@media only screen and (min-width: 400px) {
+    .image {
+        width: 10em;
+    }
+}
+
+@media only screen and (min-width: 600px) {
+    .image {
+        width: 11em;
+    }
+}
+
+.weapons {
+    position: relative;
+    border-radius: .5em;
+
+}
+
+h1 {
+    font-size: 1.4em;
+    border-radius: .5em;
+    padding: 0, .3em, 0, .3em;
+}
+
+h2 {
+    color: black;
+    margin: 0;
+}
+
+.button {
+    position: relative;
+    font-size: 1.6em;
+    color: darkblue;
+    border: 5px solid darkblue;
+    display: inline-block;
+    padding: .3em;
+    margin: .2em;
+    border-radius: .5em;
+    width: 5em;
+    background-color: rgb(13, 245, 218);
+    box-shadow: -10px 2px 5px rgb(37, 3, 90);
+}
+
+
+.win {
+    font-size: 1.5em;
+    color: blue;
+}
+
+.pc {
+    font-size: 1.5em;
+    color: blue;
+}
+
+.end {
+    font-size: 1.5em;
+}
+
+#again {
+    font-size: 1.3em;
+    white-space: normal;
+    background-color: rgb(13, 245, 218);
+    border: 5px solid darkblue;
+    padding: .4em;
+    border-radius: .5em;
+    width: 50%;
+    margin-top: .5em;
+    margin-bottom: .5em;
+    box-shadow: -10px 2px 5px rgb(44, 44, 45);
+}
+
+footer {
+    text-align: left;
+    font-size: 1.1em;
+    padding: 0;
+    width: 90%;
+    margin: auto;
+    color: darkblue;
+    margin-top: 1em;
+
+}

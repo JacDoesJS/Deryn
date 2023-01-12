@@ -1,0 +1,27 @@
+{
+  "name": "bank-challenge",
+  "version": "1.0.0",
+  "description": "bank challenge",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "jasmine",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacDoesJS/bank-challenge.git"
+  },
+  "author": "Jac McKeigue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JacDoesJS/bank-challenge/issues"
+  },
+  "homepage": "https://github.com/JacDoesJS/bank-challenge#readme",
+  "devDependencies": {
+    "jasmine": "^4.4.0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "peeps": [
+        {
+            "peepMessage": "This is the first test peep.",
+            "peepDateCreated": "2022-12-09T17:51:32.252+00:00"
+        },
+        {
+            "peepMessage": "This is the second test peep.",
+            "peepDateCreated": "2022-12-09T17:51:32.252+00:00"
+        }
+    ]
+}
