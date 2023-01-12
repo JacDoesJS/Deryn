@@ -14,6 +14,10 @@
   </p>
 </div>
 
+ <p align="center">
+<img src="IMG_20230112_164100.jpg" height = 300px alt="login screenshot">   <img src="IMG_20230112_164110.jpg" height = 300px alt="choose weapon screenshot">    <img src="IMG_20230112_164117 (1).jpg" height=300px alt="result of battle screenshot">
+</p>
+
 
 
 <!-- TABLE OF CONTENTS -->
