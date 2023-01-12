@@ -8,7 +8,7 @@
   <p align="center">
     A twitter clone that will allow users to post messages to a public wall.
     <br />
-    <a href="https://github.com/JacDoesJS/chitter-challenge.git"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/JacDoesJS/Digital-Futures/edit/main/chitter-challenge"><strong>Explore the docs »</strong></a>
     <br />
     <br />
   </p>
@@ -114,7 +114,7 @@ Improvements
 install Node.js
 Clone the repo
    ```sh
-   git clone https://github.com/JacDoesJS/chitter-challenge.git
+   git clone https://github.com/JacDoesJS/Digital-Futures/edit/main/chitter-challenge
    ```
 npm install from each package.json in integrated terminal  
 
@@ -243,7 +243,7 @@ see bit.ly/3u8KhTX
 
 Jac McKeigue - jac.mckeigue@outlook.com
 
-Project Link: [https://github.com/JacDoesJS/chitter-challenge.git](https://github.com/JacDoesJS/chitter-challenge.git)
+Project Link: [Chitter Challenge](https://github.com/JacDoesJS/Digital-Futures/edit/main/chitter-challenge)
 
 
 </br>
