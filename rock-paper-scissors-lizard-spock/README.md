@@ -15,7 +15,11 @@
 </div>
 
  <p align="center">
-<img src="A.png" height = 300px alt="login screenshot">   <img src="B.png" height = 300px alt="choose weapon screenshot">    <img src="C.png" height=300px alt="result of battle screenshot">
+<img src="Recording 2023-01-14 at 12.10.41.gif" width = 300px alt="gif of game being played/">
+</p>
+
+ <p align="center">
+<img src="rpsls.png" height = 300px alt="login screenshot">   
 </p>
 
 
